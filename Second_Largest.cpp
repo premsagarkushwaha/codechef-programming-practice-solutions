@@ -43,7 +43,7 @@ int main() {
 	    int a,b,c;
 	    cin>>a>>b>>c;
 	    int l=large(a,b,c);
-	    cout<<l<<"\n";
+	    cout<<l<<"\n ";
 	}
 	return 0;
 }
