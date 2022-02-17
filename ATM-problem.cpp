@@ -9,6 +9,7 @@ Input:
 
 Output:
 89.50
+edit
 */
 
 #include <iostream>
