@@ -9,6 +9,7 @@ using namespace std;
 // However, if you want to use cin/cout, it is usually slow.
 // To make it faster. Use cin.tie(NULL) and set ios_base::sync_with_stdio(false)
 // See the below code for details.
+// adding
 
 int main() {
 	ios_base::sync_with_stdio(false);
