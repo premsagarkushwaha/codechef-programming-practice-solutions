@@ -1,4 +1,6 @@
-/* Distinct Binary Strings Problem Code: BINSTRINGSolvedSubmit (Practice)
+/*
+added
+Distinct Binary Strings Problem Code: BINSTRINGSolvedSubmit (Practice)
 You are given a binary string SS of length NN.
 
 You have to perform the following operation exactly once:
