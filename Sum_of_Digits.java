@@ -1,4 +1,6 @@
-/*You're given an integer N. Write a program to calculate the sum of all the digits of N.
+/*
+update
+You're given an integer N. Write a program to calculate the sum of all the digits of N.
 
 Input
 The first line contains an integer T, the total number of testcases. Then follow T lines, each line contains an integer N.
