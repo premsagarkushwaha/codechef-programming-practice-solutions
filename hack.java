@@ -1,4 +1,6 @@
-/*HackerLand University has the following grading policy:
+/*
+updated 
+HackerLand University has the following grading policy:
 
 Every student receives a  in the inclusive range from  to .
 Any  less than  is a failing grade.
