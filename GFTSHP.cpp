@@ -1,5 +1,5 @@
 /*
-
+update
 Chef wants to impress Chefina by giving her the maximum number of gifts possible.
 
 Chef is in a gift shop having NN items where the cost of the ithith item is equal to AiAi. Chef has KK amount of money and a 50%50% off discount coupon that he can use for at most one of the items he buys.
